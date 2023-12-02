@@ -5,42 +5,10 @@
     "icon": "repo.png",
     "packages": [
         {
-            "name": "MDM Toolbox",
-            "bundleid": "net.sourceloc.mdmtoolbox",
-            "author": "Picasso Team",
-            "version": "1.1",
-            "icon": "icons/MDM.png",
-            "path": "packages/net.sourceloc.mdmtoolbox.picasso"
-        },
-        {
-            "name": "Accent Color",
-            "bundleid": "net.sourceloc.accent",
-            "author": "Picasso Team",
-            "version": "1.1",
-            "icon": "icons/AccentColor.png",
-            "path": "packages/net.sourceloc.accent.picasso"
-        },
-        {
-          "name": "Hide Home Bar",
-          "bundleid": "ca.bomberfish.hidehomebar",
-          "author": "Picasso Team",
-          "description": "Hides Home Bar (white line) on iPhone X devices and later.",
-          "version": "1.0",
-          "icon": "icons/HideHomeBar.png",
-          "path": "packages/ca.bomberfish.hidehomebar.picasso",
-          "minPicassoVersion": "2.0",
-          "minPicassoBuild": "5"
-        },
-        {
-          "name": "TrollStore",
-          "bundleid": "net.sourceloc.TrollStoreHelperInstaller",
-          "author": "Picasso Team",
-          "description": "ts",
-          "version": "2.0.2",
-          "icon": "icons/TrollStore.png",
-          "path": "packages/net.sourceloc.TrollStoreHelperInstaller.picasso",
-          "minPicassoVersion": "3.0",
-          "minPicassoBuild": "0"
+            "name": "RespringUnlock",
+            "bundleid": "com.madhav.respringunlock",
+            "author": "NGW69",
+            "version": "1.0",
+            "icon": "icons/respringunlock.png",
+            "path": "packages/com.madhav.respringunlock.picasso"
         }
-    ]
-}
