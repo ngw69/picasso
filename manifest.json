@@ -8,6 +8,7 @@
             "name": "RespringUnlock",
             "bundleid": "com.madhav.respringunlock",
             "author": "NGW69",
+            "description": "Device is unlocked after respring",
             "version": "1.0",
             "icon": "icons/respringunlock.png",
             "path": "packages/com.madhav.respringunlock.picasso"
