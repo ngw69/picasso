@@ -2,7 +2,7 @@
     "spec": "1.0",
     "name": "NGW69 Repo",
     "description": "Madhav's Picasso Repo For Jailed Devices",
-    "icon": "repo.png",
+    "icon": "icons/repo.png",
     "packages": [
         {
             "name": "RespringUnlock",
