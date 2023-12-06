@@ -12,6 +12,15 @@
             "version": "1.0",
             "icon": "icons/respringunlock.png",
             "path": "packages/com.madhav.respringunlock.picasso"
+        },
+        {
+            "name": "Remove Passcode Blur",
+            "bundleid": "com.madhav.removepasscodeblur",
+            "author": "NGW69",
+            "description": "No background blur when typing in passcode on lockscreen.",
+            "version": "1.0",
+            "icon": "icons/passcodeblur.png",
+            "path": "packages/com.madhav.removepasscodeblur.picasso"
         }
     ]
 }
